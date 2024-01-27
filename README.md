@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Solopos1990
+[- 👋 Hi, I’m @Solopos1990
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -11,3 +11,4 @@ Solopos1990/Solopos1990 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 https://contacts.google.com/?hl=id&tab=CC
+](https://contacts.google.com/person/c454326713133211228?hl=id)https://contacts.google.com/person/c454326713133211228?hl=id
